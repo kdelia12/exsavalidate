@@ -1,0 +1,7 @@
+{
+  "dependencies": {
+    "@solana/web3.js": "^1.87.6",
+    "discord.js": "^14.14.1",
+    "readline-sync": "^1.4.10"
+  }
+}
